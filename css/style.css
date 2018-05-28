@@ -1,0 +1,52 @@
+/* Définition des polices personnalisées */
+
+
+
+body
+{
+    background-color:white ;
+    margin-right: 200px;
+    margin-left: 200px;
+
+ }
+
+
+
+#bloc_page
+{
+    width: 900px;
+    margin: auto;
+}
+/*header*/
+header
+{
+    background:#0c2461 ;
+    position: relative;
+}
+#titre_principal
+{
+background: #0c2461;
+}
+
+#logo
+{
+
+    right: 0;
+    left: 0;
+    background:#0c2461;
+}
+
+#logo_site
+{
+    width: 30px;
+    height: 40px;
+
+  
+}
+#tp{
+  text-align: center;
+  color: white;
+}
+src {
+  background:#0c2461;
+}
